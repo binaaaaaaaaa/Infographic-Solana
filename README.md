@@ -1,8 +1,8 @@
 # Infographic: Giới thiệu về Solana Pay
 Dự án này là một infographic được thiết kế dưới dạng một trang web tĩnh (HTML & Tailwind CSS) nhằm giải thích một cách trực quan và đơn giản về Solana Pay - một bộ công cụ thanh toán đột phá trên nền tảng blockchain Solana.
 ---
-Infographic này được tạo ra như một phần "Proof of Work" (Bằng chứng năng lực) cho đơn đăng ký tài trợ Instagrant từ cộng đồng Superteam Vietnam.
----
+## Infographic này được tạo ra như một phần "Proof of Work" (Bằng chứng năng lực) cho đơn đăng ký tài trợ Instagrant từ cộng đồng Superteam Vietnam.
+
 ## 🚀 Về Infographic này
 Mục tiêu của infographic là trả lời các câu hỏi cốt lõi về Solana Pay:
 
@@ -26,10 +26,10 @@ Khả năng truyền đạt: Diễn giải các khái niệm kỹ thuật thành
 Năng lực kỹ thuật: Có khả năng hiện thực hóa ý tưởng thành một sản phẩm web hoàn chỉnh, thẩm mỹ bằng HTML và CSS.
 
 Đây là bước khởi đầu cho dự án SOL-Watch Bot - một công cụ lớn hơn nhằm mang kiến thức và dữ liệu về Solana đến gần hơn với cộng đồng Việt Nam.
--
+---
 ## 💻 Mã nguồn HTML của Infographic
 Dưới đây là toàn bộ mã nguồn để tạo nên trang infographic này.
-
+```
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -59,7 +59,9 @@ Dưới đây là toàn bộ mã nguồn để tạo nên trang infographic này
             backdrop-filter: blur(10px);
         }
     </style>
+
 </head>
+
 <body class="text-white antialiased">
 
     <div class="container mx-auto max-w-3xl p-4 sm:p-8">
